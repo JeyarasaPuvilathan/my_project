@@ -13,3 +13,6 @@ The application have the following functionality:
 - ASP.NET MVC
 - Web API
 - Angular 7
+- HTML
+- CSS
+- Bootstrap
